@@ -1,0 +1,18 @@
+C:/Users/siddi/vlsi/verilog/fulladder/check.v {0 {vlog -work work -stats=none {C:\Users\siddi\vlsi\verilog\fulladder\check.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module new
+** Error: C:\Users\siddi\vlsi\verilog\fulladder\check.v(1): (vlog-2730) Undefined variable: 'a1'.
+
+** Error: C:\Users\siddi\vlsi\verilog\fulladder\check.v(1): Identifier must be declared with a port mode: a1.
+** Error: C:\Users\siddi\vlsi\verilog\fulladder\check.v(1): (vlog-2730) Undefined variable: 'a2'.
+
+** Error: C:\Users\siddi\vlsi\verilog\fulladder\check.v(1): Identifier must be declared with a port mode: a2.
+
+} {4.0 5.0 6.0 8.0 9.0 10.0} {}} C:/Users/siddi/vlsi/verilog/fulladder/hw1.v {1 {vlog -work work -stats=none {C:\Users\siddi\vlsi\verilog\fulladder\hw1.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module hw1
+
+Top level modules:
+	hw1
+
+} {} {}}

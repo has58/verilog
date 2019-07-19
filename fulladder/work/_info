@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+vfulladder
+!s110 1563269552
+!i10b 1
+!s100 iZ:oXB7Ne_RF]=<Rii@=`3
+IlGE^_hZJgo>3^SB`JX4Q81
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dC:/Users/siddi/vlsi/verilog/fulladder
+w1563269544
+8C:\Users\siddi\vlsi\verilog\fulladder\fulladder.v
+FC:\Users\siddi\vlsi\verilog\fulladder\fulladder.v
+L0 5
+Z2 OP;L;10.4a;61
+r1
+!s85 0
+31
+!s108 1563269552.000000
+!s107 C:\Users\siddi\vlsi\verilog\fulladder\fulladder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\siddi\vlsi\verilog\fulladder\fulladder.v|
+!s101 -O0
+!i113 1
+Z3 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vhw1
+!s110 1563491847
+!i10b 1
+!s100 li=?W4BofZESK:Z>WUiIf0
+IzajNz;G1MFG104H?]a1Te1
+R0
+R1
+w1563272268
+8C:\Users\siddi\vlsi\verilog\fulladder\hw1.v
+FC:\Users\siddi\vlsi\verilog\fulladder\hw1.v
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1563491847.000000
+!s107 C:\Users\siddi\vlsi\verilog\fulladder\hw1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\siddi\vlsi\verilog\fulladder\hw1.v|
+!s101 -O0
+!i113 1
+R3
+vnew
+!s110 1563492058
+!i10b 1
+!s100 BZ6JfWHM1?jO8B<NbM5f<3
+Ie8BU_gg>MCkV[CYV<U?nz0
+R0
+R1
+w1563492056
+8C:\Users\siddi\vlsi\verilog\fulladder\check.v
+FC:\Users\siddi\vlsi\verilog\fulladder\check.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1563492058.000000
+!s107 C:\Users\siddi\vlsi\verilog\fulladder\check.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\siddi\vlsi\verilog\fulladder\check.v|
+!s101 -O0
+!i113 1
+R3

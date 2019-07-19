@@ -1,0 +1,31 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/siddi/vlsi/verilog
+vdectector
+!s110 1563578024
+!i10b 1
+!s100 Zei^D1X@m<ES[MIn;;Pk53
+I]Qna^Z6?0Gb;UEd];W4S02
+VDg1SIo80bB@j0V0VzS_@n1
+dC:/Users/siddi/vlsi/verilog/101_detector
+w1563578022
+8C:/Users/siddi/vlsi/verilog/101_detector/detector.v
+FC:/Users/siddi/vlsi/verilog/101_detector/detector.v
+L0 7
+OP;L;10.4a;61
+r1
+!s85 0
+31
+!s108 1563578024.000000
+!s107 C:/Users/siddi/vlsi/verilog/101_detector/detector.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/siddi/vlsi/verilog/101_detector/detector.v|
+!s101 -O0
+!i113 1
+o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
