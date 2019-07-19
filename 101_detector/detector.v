@@ -1,7 +1,7 @@
 // Author:Haider Ali Siddiquee
 // Date : 07/18/2019
 // Time: 10:49 pm
-// first_verilog.v
+// 101_detector.v
 // About : Sequence (101) detector 
 
 module dectector (
