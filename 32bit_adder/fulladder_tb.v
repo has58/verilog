@@ -1,0 +1,46 @@
+// Author:Haider Ali Siddiquee
+// Date : 07/20/2019
+// Time: 10:40 pm
+// fulladder_tb.v
+// About : test bench for the unit fulladder
+
+`timescale 1 ns/10 ps // time scale: time unit = 1ns and precision = 100ns
+module fulladder_tb();
+	reg a, b, c;     // Input for the fulladder
+	wire sum, carry;
+	localparam delay = 20;
+	integer i,j,k; 
+
+
+	// instentiation for the unit adder
+	fulladder DUT(
+			.a(a),
+			.b(b),
+			.c(c),		
+			.sum(sum),
+			.carry(carry));
+	initial // initial block run only one time
+	begin
+		for (i=0; i<2; i=i+1)
+			for (j=0; j<2; j=j+1)
+				for (k=0; k<2; k=k+1)
+					begin
+						a=i;
+						b=j;
+						c=k;
+						#delay;
+						if (sum != a+b+c)
+						begin
+							$display("sum is wrong at a=%d b=%d c=%d" ,i,  j, k);
+						end
+						if (a==0)
+						begin
+							if (carry != c&b)
+								$display("carry is wrong at a=%d b=%d c=%d", i, j, k);
+						end
+						else if (a==1)
+							if (carry != c|b)
+								$display("carry is wrong at a=%d b=%d c=%d", i,  j, k); 	
+					end
+	end
+endmodule

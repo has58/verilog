@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/siddi/vlsi/verilog/101_detector
+vfulladder
+Z0 !s110 1563682202
+!i10b 1
+!s100 d:eZIZ8feb^:4nhPIo7:c0
+Ie@<ieLPNbTOMd1hm8939C1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/siddi/vlsi/verilog/32bit_adder
+w1563682194
+8C:/Users/siddi/vlsi/verilog/fulladder/fulladder.v
+FC:/Users/siddi/vlsi/verilog/fulladder/fulladder.v
+L0 7
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1563682202.000000
+!s107 C:/Users/siddi/vlsi/verilog/fulladder/fulladder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/siddi/vlsi/verilog/fulladder/fulladder.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vfulladder_tb
+R0
+!i10b 1
+!s100 59bP?`Y9VTTFA=WDZGP633
+IajdPTHJhV`CeIH_Q5G7DJ0
+R1
+R2
+w1563682055
+8C:/Users/siddi/vlsi/verilog/32bit_adder/fulladder_tb.v
+FC:/Users/siddi/vlsi/verilog/32bit_adder/fulladder_tb.v
+L0 8
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/siddi/vlsi/verilog/32bit_adder/fulladder_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/siddi/vlsi/verilog/32bit_adder/fulladder_tb.v|
+!s101 -O0
+!i113 1
+R5

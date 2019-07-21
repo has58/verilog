@@ -14,7 +14,7 @@ module fulladder( a, b, c, sum, carry);
 	assign net1 = a ^ b;
 	assign sum = c ^ net1;
 	assign net2 = net1 & c;
-	assign net3 = a & b;
+	assign net3 = a ^ b;
 	assign carry = net2 | net3;
 endmodule
 
